@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Delta ACE API
+Implementation-Version: 0.0.1
+Built-By: waelhussein
+Implementation-Vendor-Id: ca.gc.cbsa.mcoe.deltaace.restApi
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Delta-ACE-API
+Created-By: Maven Integration for Eclipse
+

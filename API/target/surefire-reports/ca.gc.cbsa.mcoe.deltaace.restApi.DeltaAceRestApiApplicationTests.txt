@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.gc.cbsa.mcoe.deltaace.restApi.DeltaAceRestApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.225 s - in ca.gc.cbsa.mcoe.deltaace.restApi.DeltaAceRestApiApplicationTests
